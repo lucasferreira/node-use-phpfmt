@@ -14,6 +14,12 @@ https://github.com/driade/phpfmt8
 
 The project above has the main goal to create some _Sublime Text 4_ extension to auto format .php files so their "fmt.stub.php" in IMHO it is the most updated (and active) version of phpfmt.phar.
 
-## Usage
+## Install and Usage
 
-..
+First of all:
+
+`npm install --save use-phpfmt`
+
+or
+
+`yarn add use-phpfmt`
