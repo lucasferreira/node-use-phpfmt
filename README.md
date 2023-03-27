@@ -17,5 +17,3 @@ The project above has the main goal to create some _Sublime Text 4_ extension to
 ## Usage
 
 ..
-..
-..
