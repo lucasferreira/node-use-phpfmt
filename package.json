@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/lucasferreira/node-use-phpfmt#readme",
   "scripts": {
+    "postinstall": "node ./install.js",
     "phpfmt-install": "node ./install.js",
     "phpfmt-uninstall": "node ./uninstall.js",
     "test": "node ./test/index.js"
