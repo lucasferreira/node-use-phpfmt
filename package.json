@@ -1,0 +1,36 @@
+{
+  "name": "use-phpfmt",
+  "version": "0.0.1",
+  "description": "phpfmt installer for Node.js",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "fmt.stup",
+    "phpfmt",
+    "php"
+  ],
+  "author": "Lucas Ferreira",
+  "contributors": [
+    {
+      "name": "kokororin",
+      "url": "https://github.com/kokororin"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasferreira/node-use-phpfmt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasferreira/node-use-phpfmt/issues"
+  },
+  "homepage": "https://github.com/lucasferreira/node-use-phpfmt#readme",
+  "scripts": {
+    "phpfmt-install": "node ./install.js",
+    "phpfmt-uninstall": "node ./uninstall.js",
+    "test": "node ./test/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}

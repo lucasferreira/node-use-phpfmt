@@ -1,0 +1,5 @@
+*.phar
+fmt.stub.php
+node_modules
+test/beauty.php
+*.log
